@@ -1,0 +1,13 @@
+<root>
+  <folderDriver>drivers</folderDriver>
+  <listConnection>
+    <connection>
+      <properties>
+        <property name="CHARSET" value="UTF-8"/>
+        <property name="DATABASE" value="AZ"/>
+        <property name="USER" value="SAZ_ADM"/>
+        <property name="PASSWORD" value="HEAD_ADM"/>
+      </properties>
+    </connection>
+  </listConnection>
+</root>

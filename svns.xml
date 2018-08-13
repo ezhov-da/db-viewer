@@ -1,0 +1,15 @@
+<root>
+    <listSvn>
+        <svn>
+            <name>test</name>
+            <commands>
+                <command>
+                    <name>asdsad</name>
+                    <pathToCommand>asdsad</pathToCommand>
+                    <argument>asdsad</argument>
+                    <methodFile>asdsad</methodFile>
+                </command>
+            </commands>
+        </svn>
+    </listSvn>
+</root>
